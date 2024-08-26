@@ -2,7 +2,7 @@
 $host = 'localhost';  // o la dirección IP del servidor de la base de datos
 $db = 'zenith';
 $user = 'root';  // reemplaza con tu nombre de usuario de la base de datos
-$pass = '123456';  // reemplaza con tu contraseña de la base de datos
+$pass = '123456';  // reemplaza con tu contraseña de la base de datos,prueba de conexxion
 
 try {
     // Crear una instancia de PDO para la conexión a la base de datos
